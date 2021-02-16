@@ -8,3 +8,5 @@ This team consists of the highly talented team ranging from University of Liverp
 The financial investment is challenged by two factors 1. hard to guarantee the money will be back after 4-5 years 2. there are too many uncertainties involved in the behaviours of human
 
 The Youtube Demonstration is here: https://youtu.be/Ahr8YTBzYEk
+
+The additional info is available from my csdn blog: https://dequn.blog.csdn.net
